@@ -98,7 +98,7 @@ public class BibleBook extends Object
 		import java.util.Arrays;
       public class Array {
       public static void main(String[] args) {
-        int[] array = {bbl1, bbl2, bbl3, bbl4, bbl5, bbl6, bbl7,bbl8, bbl9, bbl10, bbl11, bbl12, bbl13, bbl14, bbl15, bbl16, bbl17, bbl18, bbl19, bbl20, bbl21, bbl22, bbl23, bbl24, bbl25, bbl26, bbl17};
+        int[] array = {bb1, bb2, bb3, bb4, bb5, bb6, bb7,bb8, bb9, bb10, bb11, bb12, bb13, bb14, bb15, bb16, bb17, bb18, bb19, bb20, bb21, bb22, bb23, bb24, bb25, bb26, bb27};
         System.out.println(Arrays.toString(array));
 	}
 }
